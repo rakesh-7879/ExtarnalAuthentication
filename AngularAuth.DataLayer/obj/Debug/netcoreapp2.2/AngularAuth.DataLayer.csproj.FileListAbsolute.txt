@@ -1,0 +1,7 @@
+C:\Users\Rakesh\source\repos\AngularAuth\AngularAuth.DataLayer\bin\Debug\netcoreapp2.2\AngularAuth.DataLayer.deps.json
+C:\Users\Rakesh\source\repos\AngularAuth\AngularAuth.DataLayer\bin\Debug\netcoreapp2.2\AngularAuth.DataLayer.dll
+C:\Users\Rakesh\source\repos\AngularAuth\AngularAuth.DataLayer\obj\Debug\netcoreapp2.2\AngularAuth.DataLayer.AssemblyInfoInputs.cache
+C:\Users\Rakesh\source\repos\AngularAuth\AngularAuth.DataLayer\obj\Debug\netcoreapp2.2\AngularAuth.DataLayer.AssemblyInfo.cs
+C:\Users\Rakesh\source\repos\AngularAuth\AngularAuth.DataLayer\bin\Debug\netcoreapp2.2\AngularAuth.DataLayer.pdb
+C:\Users\Rakesh\source\repos\AngularAuth\AngularAuth.DataLayer\obj\Debug\netcoreapp2.2\AngularAuth.DataLayer.dll
+C:\Users\Rakesh\source\repos\AngularAuth\AngularAuth.DataLayer\obj\Debug\netcoreapp2.2\AngularAuth.DataLayer.pdb

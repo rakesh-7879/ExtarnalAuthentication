@@ -1,0 +1,11 @@
+<h1>Google</h1>
+<div *ngIf="user">
+    <img [src]="user.photoUrl">
+<h4>{{user.name}}</h4>
+<p>{{user.email}}</p>
+<p>{{user.photoUrl}}</p>
+<p>{{user.firstName}}</p>
+<p>{{user.lastName}}</p>
+<p>{{user.authToken}}</p>
+<h4>{{user.authorizationCode}}</h4>
+</div>

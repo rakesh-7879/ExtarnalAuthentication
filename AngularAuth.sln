@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularAuth.Api", "AngularAuth.Api\AngularAuth.Api.csproj", "{9553F422-28D2-4615-A9C4-303DD36DEE9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularAuth.Google", "AngularAuth.Google\AngularAuth.Google.csproj", "{8AC1C517-64FB-48B7-8D09-4BBFA92FC90D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularAuth.DataLayer", "AngularAuth.DataLayer\AngularAuth.DataLayer.csproj", "{1E44A13A-128C-4031-92F2-4B1F0D1A198A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularAuth.Model", "AngularAuth.Model\AngularAuth.Model.csproj", "{584D112B-31C3-40BF-9E49-B6B2738FBFBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9553F422-28D2-4615-A9C4-303DD36DEE9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9553F422-28D2-4615-A9C4-303DD36DEE9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9553F422-28D2-4615-A9C4-303DD36DEE9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9553F422-28D2-4615-A9C4-303DD36DEE9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AC1C517-64FB-48B7-8D09-4BBFA92FC90D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AC1C517-64FB-48B7-8D09-4BBFA92FC90D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AC1C517-64FB-48B7-8D09-4BBFA92FC90D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AC1C517-64FB-48B7-8D09-4BBFA92FC90D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E44A13A-128C-4031-92F2-4B1F0D1A198A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E44A13A-128C-4031-92F2-4B1F0D1A198A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E44A13A-128C-4031-92F2-4B1F0D1A198A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E44A13A-128C-4031-92F2-4B1F0D1A198A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{584D112B-31C3-40BF-9E49-B6B2738FBFBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{584D112B-31C3-40BF-9E49-B6B2738FBFBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{584D112B-31C3-40BF-9E49-B6B2738FBFBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{584D112B-31C3-40BF-9E49-B6B2738FBFBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A03B3402-6B02-45C4-A264-26BDE4E15C17}
+	EndGlobalSection
+EndGlobal
