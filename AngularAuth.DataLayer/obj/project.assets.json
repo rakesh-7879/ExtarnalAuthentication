@@ -4087,11 +4087,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rakesh\\source\\repos\\AngularAuth\\AngularAuth.DataLayer\\AngularAuth.DataLayer.csproj",
+      "projectUniqueName": "D:\\projects\\aspProjects\\ExtarnalAuthentication\\AngularAuth.DataLayer\\AngularAuth.DataLayer.csproj",
       "projectName": "AngularAuth.DataLayer",
-      "projectPath": "C:\\Users\\Rakesh\\source\\repos\\AngularAuth\\AngularAuth.DataLayer\\AngularAuth.DataLayer.csproj",
+      "projectPath": "D:\\projects\\aspProjects\\ExtarnalAuthentication\\AngularAuth.DataLayer\\AngularAuth.DataLayer.csproj",
       "packagesPath": "C:\\Users\\Rakesh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rakesh\\source\\repos\\AngularAuth\\AngularAuth.DataLayer\\obj\\",
+      "outputPath": "D:\\projects\\aspProjects\\ExtarnalAuthentication\\AngularAuth.DataLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

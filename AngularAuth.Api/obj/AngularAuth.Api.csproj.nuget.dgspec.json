@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rakesh\\source\\repos\\AngularAuth\\AngularAuth.Api\\AngularAuth.Api.csproj": {}
+    "D:\\projects\\aspProjects\\ExtarnalAuthentication\\AngularAuth.Api\\AngularAuth.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rakesh\\source\\repos\\AngularAuth\\AngularAuth.Api\\AngularAuth.Api.csproj": {
+    "D:\\projects\\aspProjects\\ExtarnalAuthentication\\AngularAuth.Api\\AngularAuth.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rakesh\\source\\repos\\AngularAuth\\AngularAuth.Api\\AngularAuth.Api.csproj",
+        "projectUniqueName": "D:\\projects\\aspProjects\\ExtarnalAuthentication\\AngularAuth.Api\\AngularAuth.Api.csproj",
         "projectName": "AngularAuth.Api",
-        "projectPath": "C:\\Users\\Rakesh\\source\\repos\\AngularAuth\\AngularAuth.Api\\AngularAuth.Api.csproj",
+        "projectPath": "D:\\projects\\aspProjects\\ExtarnalAuthentication\\AngularAuth.Api\\AngularAuth.Api.csproj",
         "packagesPath": "C:\\Users\\Rakesh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rakesh\\source\\repos\\AngularAuth\\AngularAuth.Api\\obj\\",
+        "outputPath": "D:\\projects\\aspProjects\\ExtarnalAuthentication\\AngularAuth.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\Rakesh\\source\\repos\\AngularAuth\\AngularAuth.DataLayer\\AngularAuth.DataLayer.csproj": {
-                "projectPath": "C:\\Users\\Rakesh\\source\\repos\\AngularAuth\\AngularAuth.DataLayer\\AngularAuth.DataLayer.csproj"
+              "D:\\projects\\aspProjects\\ExtarnalAuthentication\\AngularAuth.DataLayer\\AngularAuth.DataLayer.csproj": {
+                "projectPath": "D:\\projects\\aspProjects\\ExtarnalAuthentication\\AngularAuth.DataLayer\\AngularAuth.DataLayer.csproj"
               }
             }
           }
@@ -81,14 +81,14 @@
         }
       }
     },
-    "C:\\Users\\Rakesh\\source\\repos\\AngularAuth\\AngularAuth.DataLayer\\AngularAuth.DataLayer.csproj": {
+    "D:\\projects\\aspProjects\\ExtarnalAuthentication\\AngularAuth.DataLayer\\AngularAuth.DataLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rakesh\\source\\repos\\AngularAuth\\AngularAuth.DataLayer\\AngularAuth.DataLayer.csproj",
+        "projectUniqueName": "D:\\projects\\aspProjects\\ExtarnalAuthentication\\AngularAuth.DataLayer\\AngularAuth.DataLayer.csproj",
         "projectName": "AngularAuth.DataLayer",
-        "projectPath": "C:\\Users\\Rakesh\\source\\repos\\AngularAuth\\AngularAuth.DataLayer\\AngularAuth.DataLayer.csproj",
+        "projectPath": "D:\\projects\\aspProjects\\ExtarnalAuthentication\\AngularAuth.DataLayer\\AngularAuth.DataLayer.csproj",
         "packagesPath": "C:\\Users\\Rakesh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rakesh\\source\\repos\\AngularAuth\\AngularAuth.DataLayer\\obj\\",
+        "outputPath": "D:\\projects\\aspProjects\\ExtarnalAuthentication\\AngularAuth.DataLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

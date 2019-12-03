@@ -1,0 +1,11 @@
+<h1>Facebook Login</h1>
+<div *ngIf="userFacebook">
+    <img [src]="userFacebook.photoUrl">
+<h4>{{userFacebook.name}}</h4>
+<p>{{userFacebook.email}}</p>
+<p>{{userFacebook.photoUrl}}</p>
+<p>{{userFacebook.firstName}}</p>
+<p>{{userFacebook.lastName}}</p>
+<p>{{userFacebook.authToken}}</p>
+<h4>{{userFacebook.authorizationCode}}</h4>
+</div>

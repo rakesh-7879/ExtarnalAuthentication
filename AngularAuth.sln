@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29503.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularAuth.Api", "AngularAuth.Api\AngularAuth.Api.csproj", "{9553F422-28D2-4615-A9C4-303DD36DEE9E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AngularAuth.Api", "AngularAuth.Api\AngularAuth.Api.csproj", "{9553F422-28D2-4615-A9C4-303DD36DEE9E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularAuth.Google", "AngularAuth.Google\AngularAuth.Google.csproj", "{8AC1C517-64FB-48B7-8D09-4BBFA92FC90D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AngularAuth.Google", "AngularAuth.Google\AngularAuth.Google.csproj", "{8AC1C517-64FB-48B7-8D09-4BBFA92FC90D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularAuth.DataLayer", "AngularAuth.DataLayer\AngularAuth.DataLayer.csproj", "{1E44A13A-128C-4031-92F2-4B1F0D1A198A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AngularAuth.DataLayer", "AngularAuth.DataLayer\AngularAuth.DataLayer.csproj", "{1E44A13A-128C-4031-92F2-4B1F0D1A198A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularAuth.Model", "AngularAuth.Model\AngularAuth.Model.csproj", "{584D112B-31C3-40BF-9E49-B6B2738FBFBE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AngularAuth.Model", "AngularAuth.Model\AngularAuth.Model.csproj", "{584D112B-31C3-40BF-9E49-B6B2738FBFBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularAuth.Facebook", "AngularAuth.Facebook\AngularAuth.Facebook.csproj", "{68E03426-BD88-47D0-A8CA-88A6A18009B3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{584D112B-31C3-40BF-9E49-B6B2738FBFBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{584D112B-31C3-40BF-9E49-B6B2738FBFBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{584D112B-31C3-40BF-9E49-B6B2738FBFBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68E03426-BD88-47D0-A8CA-88A6A18009B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68E03426-BD88-47D0-A8CA-88A6A18009B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68E03426-BD88-47D0-A8CA-88A6A18009B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68E03426-BD88-47D0-A8CA-88A6A18009B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

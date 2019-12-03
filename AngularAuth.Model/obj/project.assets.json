@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rakesh\\source\\repos\\AngularAuth\\AngularAuth.Model\\AngularAuth.Model.csproj",
+      "projectUniqueName": "D:\\projects\\aspProjects\\ExtarnalAuthentication\\AngularAuth.Model\\AngularAuth.Model.csproj",
       "projectName": "AngularAuth.Model",
-      "projectPath": "C:\\Users\\Rakesh\\source\\repos\\AngularAuth\\AngularAuth.Model\\AngularAuth.Model.csproj",
+      "projectPath": "D:\\projects\\aspProjects\\ExtarnalAuthentication\\AngularAuth.Model\\AngularAuth.Model.csproj",
       "packagesPath": "C:\\Users\\Rakesh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rakesh\\source\\repos\\AngularAuth\\AngularAuth.Model\\obj\\",
+      "outputPath": "D:\\projects\\aspProjects\\ExtarnalAuthentication\\AngularAuth.Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
